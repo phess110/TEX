@@ -1,3 +1,3 @@
 # TEX
 
-Study Guides from College
+Study guides/LaTeX templates.
